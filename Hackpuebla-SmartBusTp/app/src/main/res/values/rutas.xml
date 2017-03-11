@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rutas">
+        <item>Ruta Azteca</item>
+        <item>Ruta 14</item>
+        <item>Ruta 29</item>
+        <item>Ruta Tlaxcalancingo</item>
+    </string-array>
+</resources>

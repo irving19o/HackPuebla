@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/irving/.android/build-cache/933d910e3a0c6da081cff9e4c8c2ae05b0a4ac1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/irving/AndroidStudioProjects/HackPuebla/app/build/intermediates/pre-dexed/debug/classes_17c83827ab57c0ee71ec6a731dc116674c97fedf.jar" />
+    </item>
+
+</items>

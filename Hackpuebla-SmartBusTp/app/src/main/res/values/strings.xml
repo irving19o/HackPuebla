@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Bus TP</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_elegir_destino">ElegirDestino</string>
+</resources>
